@@ -8,11 +8,10 @@ Using NLP to analyze OkCupid profile texts for my class
 ## Organization
 
 
-           <- Makefile with commands like `make data` or `make train`
-├── README.md          <- The top-level README for developers using this project.
+├── README.md          <-- The top-level README for developers using this project.
 ├── data 
-    ├── raw data                 <- The original, immutable data dump.
-    ├── processed                <- The final, canonical data sets for modeling.
+    ├── raw data                 <-- The original, immutable data dump.
+    ├── processed                <-- The final, canonical data sets for modeling.
 ├── scripts
     ├── data_processing.py
 ├── notebooks
