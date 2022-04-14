@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt # For visualizations
 import seaborn as sns
 from transformers import AutoTokenizer
 #from wordcloud import WordCloud
-#from bertopic import BERTopic
+from bertopic import BERTopic
 
 #2. Import Data
 raw_data = pd.read_csv("C:/Users/norap/Documents/GitHub/Machine Learning NLP TU Wien/data/raw/okcupid_profiles.csv")
