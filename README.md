@@ -5,17 +5,6 @@ Using NLP to analyze OkCupid profile texts for my class
 
 --------
 
-## Organization
-
-
-├── README.md          <-- The top-level README for developers using this project.
-├── data 
-    ├── raw data                 <-- The original, immutable data dump.
-    ├── processed                <-- The final, canonical data sets for modeling.
-├── scripts
-    ├── data_processing.py
-├── notebooks
-    ├── dat_exploration
 
 ## Dataset
 The Dataset okcupid_profiles.csv comes from Kaggle and can be directly downloaded [here](https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles). 
